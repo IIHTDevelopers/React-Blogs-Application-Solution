@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "First Blog Posts",
+      "content": "This is the content of the first blog post. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "category": "Technology"
+    },
+    {
+      "id": 2,
+      "title": "Second Blog Post",
+      "content": "Here's the content for the second blog post. Quisque porttitor lectus ac dui dignissim tempor.",
+      "category": "Travel"
+    }
+  ]
+}
